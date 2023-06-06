@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-   6
+   cout<<"hello"
 
     return 0;
 }
